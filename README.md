@@ -1,2 +1,2 @@
-# jogo-da-vellha
+# jogo-da-velha
 Jogo feito em Desenvolvimento Desktop - IFRS.
