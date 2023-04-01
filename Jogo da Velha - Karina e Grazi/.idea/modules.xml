@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Jogo da Velha - Karina e Grazi.iml" filepath="$PROJECT_DIR$/.idea/Jogo da Velha - Karina e Grazi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jogodavelha/jogodavelha.iml" filepath="$PROJECT_DIR$/jogodavelha/jogodavelha.iml" />
+    </modules>
+  </component>
+</project>
